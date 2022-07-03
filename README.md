@@ -2,8 +2,8 @@
 Principal Component Analysis is a technique used in Machine Learning Algorithms to reduce the dimensionality of the input. A common problem faced by programmers while making a machine learning algorithm is that one or more dimensions in the dataset capture the same concept, making them redundant. For example, if height and weight are two dimensions in an algorithm, since the weight of a person increases as the height increases, they both capture the same concept. This makes the algorithm inefficient. Principal Component Analysis is a process that converts the observations of correlated features into a set of linearly uncorrelated features. For example, a 3D feature can be reduced to a 2D or 1D feature.
 
 ## Table of Contents
-* [Advantages](## Advantages)
-* [Methodology](## Methodology)
+* [Advantages](#Advantages)
+* [Methodology](#Methodology)
 
 ## Advantages
 * Removes correlated features: As discussed above, the main advantage of PCA is that it removes correlated features and converts them into a set of linearly uncorrelated features.
